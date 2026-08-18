@@ -1,0 +1,4 @@
+amount,category,payment_method,description,date
+100.0,food,cash,lunch,19-08-2026
+20.0,travel,upi,rickshaw,19-08-2026
+250.0,study,upi,course books,19-08-2026
